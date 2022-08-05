@@ -1,4 +1,4 @@
-# Short term load forecasting, using HUE and UK-dale datasets
+# Short term load forecasting on HUE and UK-dale datasets
 
 ## Description
 Welcome, this is where you will find Python scripts with machine learning models for energy consumption prediction on HUE and UK-dale datasets. Datasets include energy consumption of combined 33 domestic households. The forecast was done using three different machine learning algorithms - XGBoost, Random Forest and Recurrent Neural Networks. That combination of models provides comparisons of performance between classical and deep learning models, as well as normal decision trees versus gradient boosted trees. The forecast could possibly be improved by adding some additional well tought out features, by trying out additional models or by better optimizing the existing ones.
